@@ -3,6 +3,6 @@ terraform {
     bucket = "my-s3-bucket-for-tf-state"
     key = "main"
     region = "eu-west-2"
-    dynamodb_table = "my-dynamo-db-table-tf"
+    dynamodb_table = "my-dynamodb-table-dec-25"
   }
 }
